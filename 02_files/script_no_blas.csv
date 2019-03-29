@@ -1,0 +1,10 @@
+"test","time"
+"2500x1 vector multiplication",0
+"Matrix vector multiplication (2500x2500)",0.00999999999999979
+"Matrix matrix multiplication (2500x2500)",11.22
+"Eigenvector of 2500x2500 matrix",90.14
+"Inverse of 2500x2500 matrix",16.97
+"Solving matrix equation system 2500x2500",3.52
+"Principal components of 2500x2500 matrix",52.01
+"Singular value decomposition of 2500x2500 matrix",54.11
+"Total time for all tests",179.49
